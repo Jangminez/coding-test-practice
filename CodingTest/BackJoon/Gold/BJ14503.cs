@@ -19,7 +19,10 @@ namespace BackJoon
                 3-3. 1번 반복
 
             ** 필요 변수 **
-
+            int n, m 방의 크기
+            int[,] room 방 배열
+            int cnt 청소한 방의 개수 
+            int r, c, dir 위치, 방향
 
             ** 아이디어 ** 
             시뮬레이션
