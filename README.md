@@ -9,6 +9,8 @@
 
 | 날짜 | 문제 번호 | 문제 이름 | 난이도 | 알고리즘 | 풀이 코드 |
 | :--- | :---: | :---: | :---: | :---: | :---: |
+| 2026-01-08 | 1806 | [부분합](https://www.acmicpc.net/problem/1806) | <img src="https://static.solved.ac/tier_small/12.svg" width="15"/> | 투 포인터 | [풀이](./CodingTest/BackJoon/Gold/BJ1806.cs) |
+| 2026-01-08 | 2470 | [두 용액](https://www.acmicpc.net/problem/2470) | <img src="https://static.solved.ac/tier_small/11.svg" width="15"/> | 투 포인터 | [풀이](./CodingTest/BackJoon/Gold/BJ2470.cs) |
 | 2026-01-07 | 2003 | [수들의 합](https://www.acmicpc.net/problem/2003) | <img src="https://static.solved.ac/tier_small/7.svg" width="15"/> | 투 포인터 | [풀이](./CodingTest/BackJoon/Silver/BJ2003.cs) |
 | 2026-01-07 | 2559 | [수열](https://www.acmicpc.net/problem/2559) | <img src="https://static.solved.ac/tier_small/8.svg" width="15"/> | 슬라이딩 윈도우 | [풀이](./CodingTest/BackJoon/Silver/BJ2559.cs) |
 | 2026-01-07 | 16236 | [아기 상어](https://www.acmicpc.net/problem/16236) | <img src="https://static.solved.ac/tier_small/13.svg" width="15"/> | 구현, 시뮬레이션, BFS | [풀이](./CodingTest/BackJoon/Gold/BJ16236.cs) |
