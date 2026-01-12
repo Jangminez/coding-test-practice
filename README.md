@@ -9,6 +9,9 @@
 
 | 날짜 | 문제 번호 | 문제 이름 | 난이도 | 알고리즘 | 풀이 코드 |
 | :--- | :---: | :---: | :---: | :---: | :---: |
+| 2026-01-12 | 1202 | [보석 도둑](https://www.acmicpc.net/problem/1202) | <img src="https://static.solved.ac/tier_small/14.svg" width="15"/> | 그리디 알고리즘, 우선순위 큐 | [풀이](./CodingTest/BackJoon/Gold/BJ1202.cs) |
+| 2026-01-10 | 1931 | [회의실 배정](https://www.acmicpc.net/problem/1931) | <img src="https://static.solved.ac/tier_small/11.svg" width="15"/> | 그리디 알고리즘 | [풀이](./CodingTest/BackJoon/Gold/BJ1931.cs) |
+| 2026-01-10 | 11047 | [동전 0](https://www.acmicpc.net/problem/11047) | <img src="https://static.solved.ac/tier_small/7.svg" width="15"/> | 그리디 알고리즘 | [풀이](./CodingTest/BackJoon/Silver/BJ11047.cs) |
 | 2026-01-09 | 1654 | [랜선 자르기](https://www.acmicpc.net/problem/1654) | <img src="https://static.solved.ac/tier_small/9.svg" width="15"/> | 이분 탐색, 매개 변수 탐색 | [풀이](./CodingTest/BackJoon/Silver/BJ1654.cs) |
 | 2026-01-09 | 2805 | [나무 자르기](https://www.acmicpc.net/problem/2805) | <img src="https://static.solved.ac/tier_small/9.svg" width="15"/> | 이분 탐색, 매개 변수 탐색 | [풀이](./CodingTest/BackJoon/Silver/BJ2805.cs) |
 | 2026-01-08 | 1920 | [수 찾기](https://www.acmicpc.net/problem/1920) | <img src="https://static.solved.ac/tier_small/7.svg" width="15"/> | 정렬, 이분 탐색, 해시 | [풀이](./CodingTest/BackJoon/Silver/BJ1920.cs) |
