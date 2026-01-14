@@ -9,8 +9,9 @@
 
 | 날짜 | 문제 번호 | 문제 이름 | 난이도 | 알고리즘 | 풀이 코드 |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| 2026-01-14 | 1149 | [RGB거리](https://www.acmicpc.net/problem/1149) | <img src="https://static.solved.ac/tier_small/10.svg" width="15"/> | DP| [풀이](./CodingTest/BackJoon/Silver/BJ1149.cs) |
-| 2026-01-14 | 1026 | [보물](https://www.acmicpc.net/problem/1026) | <img src="https://static.solved.ac/tier_small/7.svg" width="15"/> | 정렬, 그리디 | [풀이](./CodingTest/BackJoon/Silver/BJ1026.cs) |
+| 2026-01-14 | 1541 | [잃어버린 괄호](https://www.acmicpc.net/problem/1541) | <img src="https://static.solved.ac/tier_small/10.svg" width="15"/> | 그리디, 수학 | [풀이](./CodingTest/BackJoon/Silver/BJ1541.cs) |
+| 2026-01-13 | 1149 | [RGB거리](https://www.acmicpc.net/problem/1149) | <img src="https://static.solved.ac/tier_small/10.svg" width="15"/> | DP | [풀이](./CodingTest/BackJoon/Silver/BJ1149.cs) |
+| 2026-01-13 | 1026 | [보물](https://www.acmicpc.net/problem/1026) | <img src="https://static.solved.ac/tier_small/7.svg" width="15"/> | 정렬, 그리디 | [풀이](./CodingTest/BackJoon/Silver/BJ1026.cs) |
 | 2026-01-12 | 1753 | [최단경로](https://www.acmicpc.net/problem/1753) | <img src="https://static.solved.ac/tier_small/12.svg" width="15"/> | 그래프, 다익스트라 | [풀이](./CodingTest/BackJoon/Gold/BJ1753.cs) |
 | 2026-01-12 | 1202 | [보석 도둑](https://www.acmicpc.net/problem/1202) | <img src="https://static.solved.ac/tier_small/14.svg" width="15"/> | 그리디 알고리즘, 우선순위 큐 | [풀이](./CodingTest/BackJoon/Gold/BJ1202.cs) |
 | 2026-01-10 | 1931 | [회의실 배정](https://www.acmicpc.net/problem/1931) | <img src="https://static.solved.ac/tier_small/11.svg" width="15"/> | 그리디 알고리즘 | [풀이](./CodingTest/BackJoon/Gold/BJ1931.cs) |
