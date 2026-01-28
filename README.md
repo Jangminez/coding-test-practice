@@ -9,6 +9,7 @@
 
 | 날짜 | 문제 번호 | 문제 이름 | 난이도 | 알고리즘 | 풀이 코드 |
 | :--- | :---: | :---: | :---: | :---: | :---: |
+| 2026-01-28 | 1504 | [특정한 최단 경로](https://www.acmicpc.net/problem/1504) | <img src="https://static.solved.ac/tier_small/12.svg" width="15"/> | 그래프, 다익스트라 | [풀이](./CodingTest/BackJoon/Gold/BJ1504.cs) |
 | 2026-01-20 | 2206 | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | <img src="https://static.solved.ac/tier_small/13.svg" width="15"/> | BFS, 그래프 | [풀이](./CodingTest/BackJoon/Gold/BJ2206.cs) |
 | 2026-01-20 | 1697 | [숨바꼭질](https://www.acmicpc.net/problem/1697) | <img src="https://static.solved.ac/tier_small/10.svg" width="15"/> | BFS, 그래프 | [풀이](./CodingTest/BackJoon/Silver/BJ1697.cs) |
 | 2026-01-14 | 1541 | [잃어버린 괄호](https://www.acmicpc.net/problem/1541) | <img src="https://static.solved.ac/tier_small/10.svg" width="15"/> | 그리디, 수학 | [풀이](./CodingTest/BackJoon/Silver/BJ1541.cs) |
