@@ -9,6 +9,9 @@
 
 | 날짜 | 문제 번호 | 문제 이름 | 난이도 | 알고리즘 | 풀이 코드 |
 | :--- | :---: | :---: | :---: | :---: | :---: |
+| 2026-01-30 | 15686 | [치킨 배달](https://www.acmicpc.net/problem/15686) | <img src="https://static.solved.ac/tier_small/11.svg" width="15"/> | 브루트포스, 백트래킹 | [풀이](./CodingTest/BackJoon/Gold/BJ15686.cs) |
+| 2026-01-30 | 1520 | [내리막 길](https://www.acmicpc.net/problem/1520) | <img src="https://static.solved.ac/tier_small/13.svg" width="15"/> | DP, DFS | [풀이](./CodingTest/BackJoon/Gold/BJ1520.cs) |
+| 2026-01-30 | 11779 | [최소비용 구하기 2](https://www.acmicpc.net/problem/11779) | <img src="https://static.solved.ac/tier_small/13.svg" width="15"/> | 그래프, 다익스트라, 역추적 | [풀이](./CodingTest/BackJoon/Gold/BJ11779.cs) |
 | 2026-01-28 | 1504 | [특정한 최단 경로](https://www.acmicpc.net/problem/1504) | <img src="https://static.solved.ac/tier_small/12.svg" width="15"/> | 그래프, 다익스트라 | [풀이](./CodingTest/BackJoon/Gold/BJ1504.cs) |
 | 2026-01-20 | 2206 | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | <img src="https://static.solved.ac/tier_small/13.svg" width="15"/> | BFS, 그래프 | [풀이](./CodingTest/BackJoon/Gold/BJ2206.cs) |
 | 2026-01-20 | 1697 | [숨바꼭질](https://www.acmicpc.net/problem/1697) | <img src="https://static.solved.ac/tier_small/10.svg" width="15"/> | BFS, 그래프 | [풀이](./CodingTest/BackJoon/Silver/BJ1697.cs) |
