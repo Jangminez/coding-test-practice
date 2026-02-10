@@ -9,6 +9,8 @@
 
 | 날짜 | 문제 번호 | 문제 이름 | 난이도 | 알고리즘 | 풀이 코드 |
 | :--- | :---: | :---: | :---: | :---: | :---: |
+| 2026-02-10 | 1976 | [여행 가자](https://www.acmicpc.net/problem/1976) | <img src="https://static.solved.ac/tier_small/12.svg" width="15"/> | 자료 구조, 분리 집합  | [풀이](./CodingTest/BackJoon/Gold/BJ1976.cs) |
+| 2026-02-10 | 1717 | [집합의 표현](https://www.acmicpc.net/problem/1717) | <img src="https://static.solved.ac/tier_small/11.svg" width="15"/> | 자료 구조, 분리 집합  | [풀이](./CodingTest/BackJoon/Gold/BJ1717.cs) |
 | 2026-02-02 | 17299 | [오등큰수](https://www.acmicpc.net/problem/17299) | <img src="https://static.solved.ac/tier_small/13.svg" width="15"/> | 스택 | [풀이](./CodingTest/BackJoon/Gold/BJ17299.cs) |
 | 2026-02-02 | 17298 | [오큰수](https://www.acmicpc.net/problem/17298) | <img src="https://static.solved.ac/tier_small/12.svg" width="15"/> | 스택 | [풀이](./CodingTest/BackJoon/Gold/BJ17298.cs) |
 | 2026-01-30 | 15686 | [치킨 배달](https://www.acmicpc.net/problem/15686) | <img src="https://static.solved.ac/tier_small/11.svg" width="15"/> | 브루트포스, 백트래킹 | [풀이](./CodingTest/BackJoon/Gold/BJ15686.cs) |
