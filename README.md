@@ -9,7 +9,11 @@
 
 | 날짜 | 문제 번호 | 문제 이름 | 난이도 | 알고리즘 | 풀이 코드 |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| 2026-02-11 | 11053 | [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) | <img src="https://static.solved.ac/tier_small/13.svg" width="15"/> | DP | [풀이](./CodingTest/BackJoon/Silver/BJ11053.cs) |
+| 2026-02-23 | 14891 | [톱니 바퀴](https://www.acmicpc.net/problem/14891) | <img src="https://static.solved.ac/tier_small/11.svg" width="15"/> | 구현, 시뮬레이션| [풀이](./CodingTest/BackJoon/Gold/BJ14891.cs) |
+| 2026-02-23 | 11000 | [강의실 배정](https://www.acmicpc.net/problem/11000) | <img src="https://static.solved.ac/tier_small/12.svg" width="15"/> | 그리디, 우선순위 큐| [풀이](./CodingTest/BackJoon/Gold/BJ11000.cs) |
+| 2026-02-14 | 14502 | [연구소](https://www.acmicpc.net/problem/14502) | <img src="https://static.solved.ac/tier_small/12.svg" width="15"/> | 구현, 브루트포스, BFS, DFS | [풀이](./CodingTest/BackJoon/Gold/BJ14502.cs) |
+| 2026-02-14 | 2110 | [공유기 설치](https://www.acmicpc.net/problem/2110) | <img src="https://static.solved.ac/tier_small/12.svg" width="15"/> | 이분 탐색, 매개 변수 탐색 | [풀이](./CodingTest/BackJoon/Gold/BJ2110.cs) |
+| 2026-02-11 | 11053 | [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) | <img src="https://static.solved.ac/tier_small/9.svg" width="15"/> | DP | [풀이](./CodingTest/BackJoon/Silver/BJ11053.cs) |
 | 2026-02-11 | 2252 | [줄 세우기](https://www.acmicpc.net/problem/2252) | <img src="https://static.solved.ac/tier_small/13.svg" width="15"/> | 위상 정렬 | [풀이](./CodingTest/BackJoon/Gold/BJ2252.cs) |
 | 2026-02-11 | 1197 | [최소 스패닝 트리](https://www.acmicpc.net/problem/1197) | <img src="https://static.solved.ac/tier_small/12.svg" width="15"/> | 최소 스패닝 트리  | [풀이](./CodingTest/BackJoon/Gold/BJ1197.cs) |
 | 2026-02-10 | 1976 | [여행 가자](https://www.acmicpc.net/problem/1976) | <img src="https://static.solved.ac/tier_small/12.svg" width="15"/> | 자료 구조, 분리 집합  | [풀이](./CodingTest/BackJoon/Gold/BJ1976.cs) |
